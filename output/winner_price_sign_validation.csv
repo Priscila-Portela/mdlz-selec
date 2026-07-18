@@ -1,0 +1,16 @@
+Product,Channel,Winning_Model,PDP_pct_price_increases,SHAP_pct_wrong_sign
+Energy Drink 350ml,Traditional,SKU_XGBoost,0.0,38.8
+Cereal Bar 50g,E-commerce,SKU_XGBoost_Tuned,0.0,0.0
+Whole Grain Crackers 200g,E-commerce,SKU_XGBoost_Tuned,0.0,0.0
+Energy Drink 350ml,Supermarkets,SKU_GAM,0.0,
+Natural Juice 1L,Traditional,SKU_GAM,0.0,
+Whole Grain Crackers 200g,Supermarkets,SKU_Stacked_GAM_LGBM,31.6,
+Cereal Bar 50g,Supermarkets,SKU_XGBoost_Tuned,15.8,67.1
+Natural Juice 1L,Supermarkets,SKU_LightGBM_Tuned,15.8,51.3
+Flavored Water 500ml,Traditional,SKU_Stacked_GAM_LGBM,15.8,
+Flavored Water 500ml,Supermarkets,SKU_LightGBM_Tuned,10.5,50.0
+Natural Juice 1L,E-commerce,SKU_XGBoost_Tuned,0.0,0.0
+Cereal Bar 50g,Traditional,SKU_LightGBM_Tuned,10.5,40.8
+Whole Grain Crackers 200g,Traditional,SKU_LightGBM_Tuned,21.1,38.8
+Flavored Water 500ml,E-commerce,SKU_XGBoost,0.0,44.1
+Energy Drink 350ml,E-commerce,SKU_LightGBM_Tuned,26.3,69.7
