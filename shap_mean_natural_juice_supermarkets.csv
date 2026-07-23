@@ -1,0 +1,16 @@
+Feature,Mean_SHAP,Direction
+Lag_1w,0.09587371466724343,Increases forecast
+Lag_4w,0.03985369484299663,Increases forecast
+Rolling_Mean_4w,0.01844405907798809,Increases forecast
+Weighted_Distribution,0.005590180946393213,Increases forecast
+Price_per_kg_USD,0.003846907048135884,Increases forecast
+Rolling_Std_4w,0.0025922067353442418,Increases forecast
+Advertising_Investment_USD,0.002111722865825754,Increases forecast
+Holiday_Flag,0.0,Increases forecast
+Interaction_Price_Promo,-0.00032509316122646234,Decreases forecast
+Promo_Flag,-0.0006059988677578153,Decreases forecast
+Promotion_Investment_USD,-0.0024947600171062495,Decreases forecast
+Numeric_Distribution,-0.003325786903997359,Decreases forecast
+Price_Change_Pct,-0.004589937305960476,Decreases forecast
+Month_Cos,-0.03481174053823205,Decreases forecast
+Month_Sin,-0.12215916938964677,Decreases forecast
